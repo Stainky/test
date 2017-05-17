@@ -156,6 +156,11 @@
             <artifactId>commons-pool</artifactId>
             <version>1.5.5</version>
         </dependency>
+        <dependency>
+            <groupId>com.tuniu.common</groupId>
+            <artifactId>common-utils</artifactId>
+            <version>0.0.7</version>
+        </dependency>
     </dependencies>
 
 

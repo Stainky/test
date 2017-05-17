@@ -24,6 +24,7 @@ public class LoginController {
     public void testQuery() {
         Test test = testService.selectByPrimaryKey(1);
         System.out.println(test.getUserName());
+//        return "testt";
     }
 
     @RequestMapping("/test")
